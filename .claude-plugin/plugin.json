@@ -1,0 +1,10 @@
+{
+  "name": "maritime",
+  "version": "1.0.0",
+  "description": "Deploy and operate AI agents on Maritime (maritime.sh): a persistent micro-VM per agent, sleep and wake, flat pricing. Includes migration skills from AWS, GCP, Azure, Cloudflare, Vercel, Heroku, Fly, Render, DigitalOcean, and any VPS.",
+  "author": { "name": "Maritime", "url": "https://maritime.sh" },
+  "homepage": "https://maritime.sh/agents.md",
+  "repository": "https://github.com/maritime-sh/skills",
+  "license": "MIT",
+  "keywords": ["maritime", "agents", "hosting", "deploy", "micro-vm", "firecracker"]
+}

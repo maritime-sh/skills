@@ -1,0 +1,17 @@
+{
+  "name": "maritime",
+  "owner": { "name": "Maritime", "url": "https://maritime.sh" },
+  "metadata": {
+    "description": "Skills for deploying and operating AI agents on Maritime.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "maritime",
+      "source": "./",
+      "description": "Deploy and operate AI agents on Maritime, plus migration runbooks from ten providers.",
+      "version": "1.0.0",
+      "category": "deployment"
+    }
+  ]
+}
